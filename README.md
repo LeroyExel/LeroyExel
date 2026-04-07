@@ -23,8 +23,8 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LeroyExel" height="30" width="40" /></a>
-<a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LeroyExel" height="30" width="40" /></a>
+<a href="https://nl.linkedin.com/in/leroy-exel-8b3b4a381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LeroyExel" height="30" width="40" /></a>
+<a href="https://leroyexel.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="leroyexel.github.io" height="30" width="40" /></a>
 </p>
 
 ---
