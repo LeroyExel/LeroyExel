@@ -6,10 +6,11 @@
 </p>
 
 ### 💫 About Me
-- 🔭 I’m currently working on improving my development workflow.
-- 🌱 I’m currently learning more about backend architectures and cloud integration.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything related to my repositories!
+- 🎓 I am currently studying **Software Development (MBO4)**.
+- 🏢 Doing my internship at **XR Lab**, working with cutting-edge tech.
+- 🎮 Deeply interested in **Unreal Engine** and **Game Modding**.
+- 🚀 Always looking for ways to optimize my development workflow.
+- 💬 Ask me about my projects or game development!
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -23,8 +24,9 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://nl.linkedin.com/in/leroy-exel-8b3b4a381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LeroyExel" height="30" width="40" /></a>
-<a href="https://leroyexel.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="leroyexel.github.io" height="30" width="40" /></a>
+<a href="https://nl.linkedin.com/in/leroy-exel-8b3b4a381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leroyexel.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/s/EgBK2o8" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="25" width="40" /></a>
 </p>
 
 ---
