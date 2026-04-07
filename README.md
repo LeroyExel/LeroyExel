@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyExel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+> **Note:** If the images above don't appear immediately, it is usually because GitHub's cache needs a moment to fetch them, or the "LeroyExel" repository needs to be public.
+
 ### 💫 About Me
 - 🔭 I’m currently working on improving my development workflow.
 - 🌱 I’m currently learning more about backend architectures and cloud integration.
@@ -14,7 +16,7 @@
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,docker,git,linux,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,cpp,cs,git,github" />
   </a>
 </p>
 
