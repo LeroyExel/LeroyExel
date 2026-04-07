@@ -1,36 +1,52 @@
-# Hi there, I'm Leroy! 👋
+# ⚡ Leroy Exel | Software Developer & XR Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeroyExel&show_icons=true&theme=tokyonight" alt="Leroy's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeroyExel&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=Leroy%20Exel&fontSize=70&animation=fadeIn" />
 </p>
 
-### 💫 About Me
-- 🎓 I am currently studying **Software Development (MBO4)**.
-- 🏢 Doing my internship at **XR Lab**, working with cutting-edge tech.
-- 🎮 Deeply interested in **Unreal Engine** and **Game Modding**.
-- 🚀 Always looking for ways to optimize my development workflow.
-- 💬 Ask me about my projects or game development!
+### 👨‍💻 About Me
+I am a **Software Development (MBO4)** student currently pushing the boundaries of immersive technology.
 
-### 🛠 Tech Stack
+- 🏢 **Internship:** Currently at **XR Lab**, exploring the future of Extended Reality.
+- 🎮 **Focus:** Learning **Unreal Engine** and specialized in **Game Modding**.
+- 🛠️ **Current Goal:** Mastering backend architectures and advanced C++ for game systems.
+- 💬 **Ask me about:** VR/AR, game logic, or my latest modding projects.
+
+---
+
+### 🛠️ My Tech Stack
+**Languages & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,cpp,cs,git,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,unreal,git,github,visualstudio,discord" />
   </a>
-</p>
-
-### 📊 Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeroyExel&theme=tokyonight)
-
-### 🤝 Connect with me
-<p align="left">
-<a href="https://nl.linkedin.com/in/leroy-exel-8b3b4a381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leroyexel.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/s/EgBK2o8" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="25" width="40" /></a>
 </p>
 
 ---
 
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeroyExel&show_icons=true&theme=tokyonight&border_radius=10" alt="Leroy's Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeroyExel&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="170" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeroyExel&theme=tokyonight&area=true)
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://nl.linkedin.com/in/leroy-exel-8b3b4a381" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leroyexel.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/s/EgBK2o8" target="blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+
+<p align="right">
+  <i>"Building the future, one line of code at a time."</i>
 </p>
