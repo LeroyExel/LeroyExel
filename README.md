@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 I am a **Software Development (MBO4)** student currently pushing the boundaries of immersive technology.
 
-- 🏢 **Internship:** Currently at **XR Lab**, exploring the future of Extended Reality.
+- 🏢 **Internship:** Currently at **XR Lab**, exploring the future.
 - 🎮 **Focus:** Learning **Unreal Engine** and specialized in **Game Modding**.
 - 🛠️ **Current Goal:** Mastering backend architectures and advanced C++ for game systems.
 - 💬 **Ask me about:** VR/AR, game logic, or my latest modding projects.
