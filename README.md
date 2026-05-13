@@ -9,7 +9,7 @@ I am a **Software Development (MBO4)** student currently pushing the boundaries 
 
 - 🏢 **Internship:** Currently at **XR Lab**, exploring the future.
 - 🎮 **Focus:** Learning **Unreal Engine** and specialized in **Game Modding**.
-- 🛠️ **Current Goal:** Mastering backend architectures and advanced C++ for game systems.
+- 🛠️ **Current Goal:** Mastering Reverse Engineering.
 - 💬 **Ask me about:** VR/AR, game logic, or my latest modding projects.
 
 ---
